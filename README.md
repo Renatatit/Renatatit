@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Заголовок страницы</title>
+    <title>Отличный день</title>
     <link rel="stylesheet" href="./styles/style.css">
 
     <meta property="og:title" content="Заголовок страницы в OG">
