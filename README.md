@@ -17,7 +17,7 @@
       <p>Который сделан</p>
       <nav>
         <ul>
-          <li><a href="index.html">Эта страница</a></li>
+          <li><a href="index.html">Эта страница очень полезна</a></li>
           <li><a href="catalog.html">Другая страница</a></li>
         </ul>
       </nav>
