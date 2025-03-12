@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Отличный день уже блин 10 марта</title>
+    <title>Отличный день уже блин 12 марта</title>
     <link rel="stylesheet" href="./styles/style.css">
 
     <meta property="og:title" content="Заголовок моей жизни в 2025">
@@ -18,7 +18,7 @@
       <nav>
         <ul>
           <li><a href="index.html">Эта страница очень полезна или нет</a></li>
-          <li><a href="catalog.html">Другая страница</a></li>
+          <li><a href="catalog.html">Другая страница и эта тоже</a></li>
         </ul>
       </nav>
     </header>
