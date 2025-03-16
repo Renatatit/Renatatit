@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./styles/style.css">
 
     <meta property="og:title" content="Заголовок моей жизни в 2025">
-    <meta property="og:description" content="Описание пасхи  и 15 марта">
+    <meta property="og:description" content="Описание пасхи  и 16 марта">
     <meta property="og:image" content="https://example.com/image.jpg">
     <meta property="og:url" content="https://example.com/">
   </head>
@@ -17,7 +17,7 @@
       <p>Который сделан</p>
       <nav>
         <ul>
-          <li><a href="index.html">Эта страница очень полезна или нет</a></li>
+          <li><a href="index.html">Эта страница очень полезна</a></li>
           <li><a href="catalog.html">Другая страница и эта тоже</a></li>
         </ul>
       </nav>
