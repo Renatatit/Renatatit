@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./styles/style.css">
 
     <meta property="og:title" content="Заголовок моей жизни в 2025">
-    <meta property="og:description" content="Описание пасхи  и 24 марта">
+    <meta property="og:description" content="Описание пасхи  и 25 марта">
     <meta property="og:image" content="https://example.com/image.jpg">
     <meta property="og:url" content="https://example.com/">
   </head>
@@ -42,7 +42,7 @@
       </article>
     </main>
     <footer>
-      <p>люблю заниматься вышивкой и просто любоваться на облока</p>
+      <p>люблю заниматься вышивкой и просто любоваться на облока и деньги</p>
     </footer>
     <!-- сюда можно подключить jquery <script src="scripts/app.js" defer></script> -->
   </body>
