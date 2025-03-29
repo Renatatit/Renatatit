@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./styles/style.css">
 
     <meta property="og:title" content="Заголовок моей жизни в 2025">
-    <meta property="og:description" content="Описание пасхи  и 28 марта">
+    <meta property="og:description" content="Описание пасхи  и 29 марта">
     <meta property="og:image" content="https://example.com/image.jpg">
     <meta property="og:url" content="https://example.com/">
   </head>
@@ -33,7 +33,7 @@
         <section>
           <h2>Вторая секция</h2>
           <p>Она тоже обо мне и о финансах
-          что поют романсы</p>
+          которые растут вверх</p>
         </section>
         <section>
           <h2>И третья</h2>
