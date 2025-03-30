@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Отличный день уже блин 24 марта</title>
+    <title>Отличный день уже блин 30 марта</title>
     <link rel="stylesheet" href="./styles/style.css">
 
     <meta property="og:title" content="Заголовок моей жизни в 2025">
-    <meta property="og:description" content="Описание пасхи  и 29 марта">
+    <meta property="og:description" content="Описание пасхи  и 30 марта">
     <meta property="og:image" content="https://example.com/image.jpg">
     <meta property="og:url" content="https://example.com/">
   </head>
@@ -26,7 +26,7 @@
       <article>
         <section>
           <h2>Первая секция</h2>
-          <p>Она обо мне</p>
+          <p>Она обо мне и о финансах</p>
           <img src="images/image.png" alt="Человек и доход сегодня">
           <p>Но может быть и о монаде и сахара и других</p>
         </section>
