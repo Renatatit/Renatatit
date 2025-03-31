@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Отличный день уже блин 30 марта</title>
+    <title>Отличный день уже блин 31 марта</title>
     <link rel="stylesheet" href="./styles/style.css">
 
     <meta property="og:title" content="Заголовок моей жизни в 2025">
-    <meta property="og:description" content="Описание пасхи  и 30 марта">
+    <meta property="og:description" content="Описание пасхи  и 31 марта">
     <meta property="og:image" content="https://example.com/image.jpg">
     <meta property="og:url" content="https://example.com/">
   </head>
@@ -42,7 +42,7 @@
       </article>
     </main>
     <footer>
-      <p>люблю заниматься вышивкой и просто любоваться</p>
+      <p>люблю заниматься вышивкой любоваться</p>
     </footer>
     <!-- сюда можно подключить jquery <script src="scripts/app.js" defer></script> -->
   </body>
