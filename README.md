@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Отличный день уже блин 8 апреля</title>
+    <title>Отличный день уже блин 9 апреля</title>
     <link rel="stylesheet" href="./styles/style.css">
 
     <meta property="og:title" content="Заголовок моей жизни в 2025">
-    <meta property="og:description" content="Описание пасхи и алтая и 8 апреля">
+    <meta property="og:description" content="Описание пасхи и алтая и 9 апреля">
     <meta property="og:image" content="https://example.com/image.jpg">
     <meta property="og:url" content="https://example.com/">
   </head>
