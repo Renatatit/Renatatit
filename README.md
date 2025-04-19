@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./styles/style.css">
 
     <meta property="og:title" content="Заголовок моей жизни в 2025">
-    <meta property="og:description" content="Описание пасхи и алтая и 18 апреля">
+    <meta property="og:description" content="Описание пасхи и алтая и 19 апреля">
     <meta property="og:image" content="https://example.com/image.jpg">
     <meta property="og:url" content="https://example.com/">
   </head>
